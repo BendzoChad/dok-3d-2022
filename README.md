@@ -3,3 +3,5 @@ Bude obsahovať jednoduchú webovú stránku
 
 
 dnes je streda more
+
+zajtra je stvrtok
